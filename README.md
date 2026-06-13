@@ -1,2 +1,4 @@
-# fake-job-internship-detector
-AI-powered Fake Job &amp; Internship Detection System using NLP, TF-IDF, Logistic Regression, and Streamlit for real-time fraud detection.
+# 🛡️ AI-Powered Fake Job & Internship Detector
+
+🚀 Live Demo: https://fake-job-internship-detector-muuwuseadjphucdxtjxrmo.streamlit.app/
+
